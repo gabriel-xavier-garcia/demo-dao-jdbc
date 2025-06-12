@@ -1,6 +1,5 @@
 package model.entities;
 
-import javax.xml.crypto.Data;
 import java.io.Serializable;
 import java.util.Date;
 import java.util.Objects;
